@@ -34,3 +34,21 @@ kemudian nantinya terdapat file 1_hello_world sebagai binary yang bisa dijalanka
 
 ## 4_konversi_tipe_data.go
 - tinggal pake function int32(), int64(), string()
+
+## 5_type_declaration.go
+- `type` digunakan untuk melakukan alias suatu variable
+
+## 6_operasi_matematika.co
+- kurang lebih sama dengan bahasa pemrograman lain
+
+## 7_operasi_perbandingan.go
+- kurang lebih sama dengan bahasa pemrograman lain
+
+## 8_array.go
+- deklarasi array tanpa value:
+`var names [3]string`
+
+- deklarasi array dengan value:
+`var numbers = [5] int {1,2,3,4,5}`
+
+- `len()` untuk menghitung jumlah array
